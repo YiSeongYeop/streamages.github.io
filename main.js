@@ -5,5 +5,5 @@ function enterSearch() {
 }
 function myFunction() {
     var x = document.getElementById("bin").value;
-    window.location.href = "http://192.168.0.20/" + x + ".html";
+    window.location.href = "https://yiseongyeop.github.io/streamages.github.io/" + x + ".html";
 }
