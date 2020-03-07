@@ -31,7 +31,6 @@ button {
 
 #main_logo {
     text-align: left;
-    margin-right: 200px;
 }
 
 .list_img {
@@ -60,6 +59,5 @@ button {
     width: 400px;
     border: 1px solid #1b5ac2;
     background: #ffffff;
-    margin-right: 200px;
     margin-top: 20px;
 }
